@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  background-color: gray;
+}
+
+.left-div {
+  width: 20%;
+  height: 100vh;
+  background-color: darkgray;
+  display: inline-block;
+  float: left;
+}
+
+.center {
+  background-color: lightgray;
+  height: 100vh;
+  width: 60%;
+  display: inline-block;
+  float: left;
+}
+
+.center-div {
+  background-color: lightgray;
+  height: 80vh;
+  width: 100%;
+  float: left;
+}
+
+.bottom-div {
+  background-color: gray;
+  height: 20vh;
+  width: 100%;
+  float: left;
+}
+
+.right-div {
+  width: 20%;
+  height: 100vh;
+  background-color: darkgray;
+  display: inline-block;
+  float: left;
+}
